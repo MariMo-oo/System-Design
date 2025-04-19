@@ -2,6 +2,6 @@
 ---
 
 Below is the system design of tinder
-![Alt text](HLD/Tinder/images/tinder_1.png)
+![Alt text](./images/tinder_1.png)
 
 ---
