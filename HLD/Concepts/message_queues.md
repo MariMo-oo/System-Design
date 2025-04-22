@@ -61,11 +61,11 @@ Most Pub/Sub brokers provide **at‑least‑once** delivery, so consumers can re
 
 ## 📚 Further Reading
 
-- **freeCodeCamp:** How Message Queues Work in Distributed Systems :contentReference[oaicite:15]{index=15}  
-- **Medium:** Basics of Pizza Shop Design (Asynchronous Processing) :contentReference[oaicite:16]{index=16}  
-- **RabbitMQ.com:** Official Documentation :contentReference[oaicite:17]{index=17}  
-- **Cloud AMQP:** RabbitMQ for Beginners :contentReference[oaicite:18]{index=18}  
-- **Microservices.io:** Idempotent Consumer Pattern :contentReference[oaicite:19]{index=19}  
+- **freeCodeCamp:** How Message Queues Work in Distributed Systems  
+- **Medium:** Basics of Pizza Shop Design (Asynchronous Processing)  
+- **RabbitMQ.com:** Official Documentation  
+- **Cloud AMQP:** RabbitMQ for Beginners   
+- **Microservices.io:** Idempotent Consumer Pattern  
 
 ---
 
