@@ -58,3 +58,15 @@ Most Pub/Sub brokers provide **at‑least‑once** delivery, so consumers can re
 - **Non‑Idempotent Example:** Charging a credit card—processing the same event twice results in two charges.
 
 ---
+
+## 📚 Further Reading
+
+- **freeCodeCamp:** How Message Queues Work in Distributed Systems :contentReference[oaicite:15]{index=15}  
+- **Medium:** Basics of Pizza Shop Design (Asynchronous Processing) :contentReference[oaicite:16]{index=16}  
+- **RabbitMQ.com:** Official Documentation :contentReference[oaicite:17]{index=17}  
+- **Cloud AMQP:** RabbitMQ for Beginners :contentReference[oaicite:18]{index=18}  
+- **Microservices.io:** Idempotent Consumer Pattern :contentReference[oaicite:19]{index=19}  
+
+---
+
+> _“Decoupling via messaging enables independent scaling, fault isolation, and flexible integration of microservices.”_  
